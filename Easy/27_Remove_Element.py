@@ -6,7 +6,9 @@ class Solution(object):
         :rtype: int
         """
         try:
+            # Continuously remove specific val until all removed
             while True:
                 nums.remove(val)
         except:
+            # Return length left
             return len(nums)

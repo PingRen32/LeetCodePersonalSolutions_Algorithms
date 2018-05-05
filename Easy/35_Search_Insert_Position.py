@@ -8,6 +8,5 @@ class Solution(object):
         for i in range(len(nums)):
             if nums[i] >= target:
                 return i
-        return (len(nums))
-        
-                
+        # Target is the largest
+        return len(nums)
