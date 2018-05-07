@@ -13,14 +13,23 @@ class Solution(object):
         """
         dummy = cur = ListNode(0)
         carry = 0
+        # When node still exists
         while l1 or l2 or carry:
+            # Two conditions, in case one of them already ended
             if l1:
+                # Pass value to sum
                 carry += l1.val
+                # Update toward next node
                 l1 = l1.next
             if l2:
+                # Pass value to sum
                 carry += l2.val
+                # Update toward next node
                 l2 = l2.next
+            # Add last digit of sum
             cur.next = ListNode(carry%10)
+            # Update node
             cur = cur.next
+            # Adding remainder toward next
             carry //= 10
         return dummy.next

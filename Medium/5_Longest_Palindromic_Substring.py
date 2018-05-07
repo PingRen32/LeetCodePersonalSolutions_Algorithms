@@ -4,26 +4,28 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        # From @DiZ
-        # Transform S into T.
-        # For example, S = "abba", T = "^#a#b#b#a#$".
+        # Transform S into t.
+        # For example, S = "abba", t = "^#a#b#b#a#$".
         # ^ and $ signs are sentinels appended to each end to avoid bounds checking
-        T = '#'.join('^{}$'.format(s))
-        n = len(T)
-        P = [0] * n
-        C = R = 0
-        for i in range (1, n-1):
-            P[i] = (R > i) and min(R - i, P[2*C - i]) # equals to i' = C - (i-C)
+        t = '#'.join('^{}$'.format(s))
+        # Length of t
+        n = len(t)
+        # List of boolean (also int) same length as t
+        p = [0] * n
+        # Place holder
+        c = r = 0
+        for i in range(1, n-1):
+            # Equals to i' = c - (i-c)
+            p[i] = (r > i) and min(r - i, p[2*c - i])
             # Attempt to expand palindrome centered at i
-            while T[i + 1 + P[i]] == T[i - 1 - P[i]]:
-                P[i] += 1
-    
-            # If palindrome centered at i expand past R,
+            while t[i + 1 + p[i]] == t[i - 1 - p[i]]:
+                p[i] += 1
+            # If palindrome centered at i expand past r,
             # adjust center based on expanded palindrome.
-            if i + P[i] > R:
-                C, R = i, i + P[i]
+            if i + p[i] > r:
+                c, r = i, i + p[i]
     
-        # Find the maximum element in P.
-        maxLen, centerIndex = max((n, i) for i, n in enumerate(P))
-        return s[(centerIndex  - maxLen)//2: (centerIndex  + maxLen)//2]
-                    
+        # Find the maximum element in p.
+        max_len, center_index = max((n, i) for i, n in enumerate(p))
+        # Return the value by having midpoint expand to both sides
+        return s[(center_index - max_len)//2: (center_index + max_len)//2]
