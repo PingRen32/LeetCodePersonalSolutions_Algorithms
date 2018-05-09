@@ -8,6 +8,7 @@ class Solution(object):
         def generate(p, left, right):
             # Keep looping if not closed(well-formed)
             if right >= left >= 0:
+                # Complete checking
                 if not right:
                     yield p
                 # Add one parenthese at a time, pile up for final result

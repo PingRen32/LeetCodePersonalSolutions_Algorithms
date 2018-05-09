@@ -11,6 +11,7 @@ class Solution(object):
         :type n: int
         :rtype: ListNode
         """
+        # Recursion method
         def remove(head):
             # Input Error Report
             if not head:
