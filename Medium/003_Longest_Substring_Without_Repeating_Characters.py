@@ -4,6 +4,9 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        # Input a charter string
+        # Output the size of non-repeated longest substring
+        
         # Empty input case
         if not s:
             return 0   
