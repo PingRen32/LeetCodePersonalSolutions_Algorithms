@@ -11,9 +11,14 @@ class Solution(object):
         :type l2: ListNode
         :rtype: ListNode
         """
+        # Input two linked nodes 'l1' and 'l2' each defined ahead on top
+        # Sum each according to single digit result by pushing tenth digit '1' of two digit results to next node
+
+        # Start with first item of list node
         dummy = cur = ListNode(0)
+        # Carry current sum of two list nodes
         carry = 0
-        # When node still exists
+        # When node item still exists
         while l1 or l2 or carry:
             # Two conditions, in case one of them already ended
             if l1:
