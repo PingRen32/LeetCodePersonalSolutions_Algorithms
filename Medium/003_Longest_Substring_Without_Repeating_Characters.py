@@ -6,7 +6,7 @@ class Solution(object):
         """
         # Input a charter string
         # Output the size of non-repeated longest substring
-        
+
         # Empty input case
         if not s:
             return 0   
@@ -14,13 +14,13 @@ class Solution(object):
         dic, res, start, = {}, 0, 0
         # Loop by all char
         for i, ch in enumerate(s):
+            # If char already in dictionary
             if ch in dic:
-                # If char already in dictionary
-                # Set the length to be ended by current location
+                # Set the res updated to the larger of 'res' and length from start to current
                 res = max(res, i - start)
-                # Update to the location of next item on char list
-                # Abandoning the repeated char
+                # Set the start updated to behind last appearance of the repeated character
                 start = max(start, dic[ch] + 1)
-            # Update location for that char
+            # Update this character into dictionary with location number
             dic[ch] = i
+        # Return the larger of rest or the total length minus the starting point
         return max(res, len(s) - start)
