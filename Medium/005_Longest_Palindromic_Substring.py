@@ -4,15 +4,18 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        # Transform S into t.
-        # For example, S = "abba", t = "^#a#b#b#a#$".
+        # Input a string 's'
+        # Output the longest palindromic substring
+
+        # Transform 's' into t
+        # For example, S = "abba", t = "^#a#b#b#a#$"
         # ^ and $ signs are sentinels appended to each end to avoid bounds checking
         t = '#'.join('^{}$'.format(s))
         # Length of t
         n = len(t)
         # List of boolean (also int) same length as t
         p = [0] * n
-        # Place holder
+        # Place holders
         c = r = 0
         for i in range(1, n-1):
             # Equals to i' = c - (i-c)
