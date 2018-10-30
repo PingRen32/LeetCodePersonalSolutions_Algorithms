@@ -4,6 +4,9 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
+        # Input a integer number
+        # Output judgement if the input number is palindrome, same as digital reverse
+
         # Larger than 0 to be valid
         if x >= 0:
             # Single digit are all considered true
