@@ -5,6 +5,9 @@ class Solution(object):
         :type p: str
         :rtype: bool
         """
+        # Input a string of char
+        # Output if the second string represent the first
+
         # Set the default result as False
         dp = [[False] * (len(s) + 1) for _ in range(len(p) + 1)]
         # Initialize the first 
