@@ -11,7 +11,8 @@ class Solution(object):
         left, right, width, res = 0, len(height) - 1, len(height) - 1, 0
         # Loop by the width in reverse
         for w in range(width, 0, -1):
-            # Compare the 2 items and save the larger for max 
+            # Compare the 2 items and save the larger for max
+            # Only update if the volume is larger, judge for both sides
             if height[left] < height[right]:
                 res, left = max(res, height[left] * w), left + 1
             else:
