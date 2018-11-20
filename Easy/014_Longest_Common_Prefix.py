@@ -4,6 +4,9 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
+        # Input a list of strings
+        # Output the longest common prefix
+
         # Return empty string if list is empty
         if not strs:
             return ""
