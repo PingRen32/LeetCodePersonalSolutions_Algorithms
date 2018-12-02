@@ -5,6 +5,9 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
+        # Input an array of numbers and a target sum
+        # Output three numbers that has a sum closest to target, single solution assumed
+
         # Sort the given numbers
         nums.sort()
         # Initialize result

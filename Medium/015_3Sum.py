@@ -4,6 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
+        # Input a list of integer
+        # Output a list of integer lists that sum up to 0
+
         # Initialize result string
         res = []
         # Sort the given numbers
