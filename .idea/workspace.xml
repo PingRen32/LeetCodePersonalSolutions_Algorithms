@@ -2,11 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Medium/029_ Divide_Two_Integers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCodePersonalSolutions_Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCodePersonalSolutions_Algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/030_Substring_with_Concatenation_of_All_Words.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/001_Two_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/001_Two_Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/007_Reverse_Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/007_Reverse_Integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/009_Palindrome_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/009_Palindrome_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/013_Roman_to_Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/013_Roman_to_Integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/014_Longest_Common_Prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/014_Longest_Common_Prefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/020_Valid_Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/020_Valid_Parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/021_Merge_Two_Sorted_Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/021_Merge_Two_Sorted_Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/026_Remove_Duplicates_from_Sorted_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/026_Remove_Duplicates_from_Sorted_Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/027_Remove_Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/027_Remove_Element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/028_Implement_strStr().py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/028_Implement_strStr().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/004_Median_of_Two_Sorted_Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/004_Median_of_Two_Sorted_Arrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/010_Regular_Expression_Matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/010_Regular_Expression_Matching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/023_Merge_k_Sorted_Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/023_Merge_k_Sorted_Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/025_Reverse_Nodes_in_k-Group.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/025_Reverse_Nodes_in_k-Group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/002_Add_Two_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/002_Add_Two_Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/003_Longest_Substring_Without_Repeating_Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/003_Longest_Substring_Without_Repeating_Characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/005_Longest_Palindromic_Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/005_Longest_Palindromic_Substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/006_ZigZag_Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/006_ZigZag_Conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/008_String_to_Integer_(atoi).py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/008_String_to_Integer_(atoi).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/011_Container_With_Most_Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/011_Container_With_Most_Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/012_Integer_to_Roman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/012_Integer_to_Roman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/015_3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/015_3Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/016_3Sum_Closest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/016_3Sum_Closest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Medium/017_Letter_Combinations_of_a_Phone_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/017_Letter_Combinations_of_a_Phone_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/018_4Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/018_4Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/019_Remove_Nth_Node_From_End_of_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/019_Remove_Nth_Node_From_End_of_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/022_Generate_Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/022_Generate_Parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/024_Swap_Nodes_in_Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/024_Swap_Nodes_in_Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/029_ Divide_Two_Integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/029_ Divide_Two_Integers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +42,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hard/030_Substring_with_Concatenation_of_All_Words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Medium/029_ Divide_Two_Integers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="629">
+              <caret line="37" column="74" lean-forward="true" selection-start-line="37" selection-start-column="74" selection-end-line="37" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -49,6 +84,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Hard/030_Substring_with_Concatenation_of_All_Words.py" />
         <option value="$PROJECT_DIR$/Easy/001_Two_Sum.py" />
         <option value="$PROJECT_DIR$/Medium/002_Add_Two_Numbers.py" />
         <option value="$PROJECT_DIR$/Medium/003_Longest_Substring_Without_Repeating_Characters.py" />
@@ -66,6 +102,17 @@
         <option value="$PROJECT_DIR$/Medium/015_3Sum.py" />
         <option value="$PROJECT_DIR$/Medium/016_3Sum_Closest.py" />
         <option value="$PROJECT_DIR$/Medium/017_Letter_Combinations_of_a_Phone_Number.py" />
+        <option value="$PROJECT_DIR$/Medium/018_4Sum.py" />
+        <option value="$PROJECT_DIR$/Medium/019_Remove_Nth_Node_From_End_of_List.py" />
+        <option value="$PROJECT_DIR$/Easy/020_Valid_Parentheses.py" />
+        <option value="$PROJECT_DIR$/Easy/021_Merge_Two_Sorted_Lists.py" />
+        <option value="$PROJECT_DIR$/Medium/022_Generate_Parentheses.py" />
+        <option value="$PROJECT_DIR$/Hard/023_Merge_k_Sorted_Lists.py" />
+        <option value="$PROJECT_DIR$/Medium/024_Swap_Nodes_in_Pairs.py" />
+        <option value="$PROJECT_DIR$/Hard/025_Reverse_Nodes_in_k-Group.py" />
+        <option value="$PROJECT_DIR$/Easy/026_Remove_Duplicates_from_Sorted_Array.py" />
+        <option value="$PROJECT_DIR$/Easy/027_Remove_Element.py" />
+        <option value="$PROJECT_DIR$/Easy/028_Implement_strStr().py" />
         <option value="$PROJECT_DIR$/Medium/029_ Divide_Two_Integers.py" />
       </list>
     </option>
@@ -142,18 +189,18 @@
       <updated>1544681141565</updated>
       <workItem from="1551415805259" duration="68000" />
       <workItem from="1551416023226" duration="598000" />
-      <workItem from="1559250316465" duration="5006000" />
+      <workItem from="1559250316465" duration="16663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5672000" />
+    <option name="totallyTimeSpent" value="17329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18866397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21700405" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -182,138 +229,215 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Medium/003_Longest_Substring_Without_Repeating_Characters.py">
+    <entry file="file://$USER_HOME$/OneDrive/Desktop/a.py" />
+    <entry file="file://$USER_HOME$/OneDrive/Desktop/get-pip.py" />
+    <entry file="file://$PROJECT_DIR$/Easy/001_Two_Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/002_Add_Two_Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hard/004_Median_of_Two_Sorted_Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="34">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/005_Longest_Palindromic_Substring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="629">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/003_Longest_Substring_Without_Repeating_Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/006_ZigZag_Conversion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/007_Reverse_Integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/008_String_to_Integer_(atoi).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="425">
+          <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/009_Palindrome_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hard/010_Regular_Expression_Matching.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/011_Container_With_Most_Water.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/012_Integer_to_Roman.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/013_Roman_to_Integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="86" lean-forward="true" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/014_Longest_Common_Prefix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="289">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/015_3Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/016_3Sum_Closest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/001_Two_Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/Desktop/a.py" />
-    <entry file="file://$USER_HOME$/OneDrive/Desktop/get-pip.py" />
     <entry file="file://$PROJECT_DIR$/Medium/017_Letter_Combinations_of_a_Phone_Number.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/018_4Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/019_Remove_Nth_Node_From_End_of_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/020_Valid_Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/021_Merge_Two_Sorted_Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/022_Generate_Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/023_Merge_k_Sorted_Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/024_Swap_Nodes_in_Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hard/025_Reverse_Nodes_in_k-Group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state relative-caret-position="272">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/002_Add_Two_Numbers.py">
+    <entry file="file://$PROJECT_DIR$/Easy/026_Remove_Duplicates_from_Sorted_Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/027_Remove_Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/028_Implement_strStr().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/030_Substring_with_Concatenation_of_All_Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/029_ Divide_Two_Integers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="629">
+          <caret line="37" column="74" lean-forward="true" selection-start-line="37" selection-start-column="74" selection-end-line="37" selection-end-column="74" />
         </state>
       </provider>
     </entry>

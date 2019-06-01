@@ -1,3 +1,7 @@
+# Given an array nums of n integers and an integer target,
+# are there elements a, b, c, and d in nums such that a + b + c + d = target?
+# Find all unique quadruplets in the array which gives the sum of target.
+
 class Solution(object):
     def fourSum(self, nums, target):
         """
@@ -6,6 +10,7 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         nums.sort()
+
         # Universal solver for summery questions
         def ksum(num, k, target):
             i = 0
