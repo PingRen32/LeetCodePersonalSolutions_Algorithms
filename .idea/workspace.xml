@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/0036_Valid_Sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/simon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/0037_Sudoku_Solver.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hard/0037_Sudoku_Solver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,13 +93,14 @@
         <option value="$PROJECT_DIR$/Easy/0107_Binary_Tree_Level_Order_Traversal_II.py" />
         <option value="$PROJECT_DIR$/Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/Medium/0036_Valid_Sudoku.py" />
+        <option value="$PROJECT_DIR$/Hard/0037_Sudoku_Solver.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1909" />
     <option name="width" value="1940" />
-    <option name="height" value="2160" />
+    <option name="height" value="2171" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -106,11 +117,6 @@
             <path>
               <item name="LeetCodePersonalSolutions_Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePersonalSolutions_Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodePersonalSolutions_Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodePersonalSolutions_Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodePersonalSolutions_Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -161,15 +167,16 @@
       <workItem from="1559250316465" duration="25579000" />
       <workItem from="1564801911283" duration="6202000" />
       <workItem from="1565860473744" duration="26234000" />
-      <workItem from="1566496130065" duration="1607000" />
+      <workItem from="1566496130065" duration="6580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60288000" />
+    <option name="totallyTimeSpent" value="65261000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1293" height="1440" extended-state="0" />
+    <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24048583" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -320,8 +327,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/0036_Valid_Sudoku.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
+        <state relative-caret-position="654">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/0037_Sudoku_Solver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
         </state>
       </provider>
     </entry>
