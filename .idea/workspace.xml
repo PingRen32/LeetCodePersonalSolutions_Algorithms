@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Medium/0039_Combination_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/0040_Combination_Sum_II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/0041_First_Missing_Positive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Medium/0039_Combination_Sum.py">
+        <entry file="file://$PROJECT_DIR$/Medium/0041_First_Missing_Positive.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+            <state relative-caret-position="550">
+              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -93,6 +95,8 @@
         <option value="$PROJECT_DIR$/Medium/0036_Valid_Sudoku.py" />
         <option value="$PROJECT_DIR$/Hard/0037_Sudoku_Solver.py" />
         <option value="$PROJECT_DIR$/Medium/0039_Combination_Sum.py" />
+        <option value="$PROJECT_DIR$/Medium/0040_Combination_Sum_II.py" />
+        <option value="$PROJECT_DIR$/Medium/0041_First_Missing_Positive.py" />
       </list>
     </option>
   </component>
@@ -171,12 +175,12 @@
       <workItem from="1559250316465" duration="25579000" />
       <workItem from="1564801911283" duration="6202000" />
       <workItem from="1565860473744" duration="26234000" />
-      <workItem from="1566496130065" duration="9228000" />
+      <workItem from="1566496130065" duration="12220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67909000" />
+    <option name="totallyTimeSpent" value="70901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
@@ -211,8 +215,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/OneDrive/Desktop/get-pip.py" />
-    <entry file="file://$PROJECT_DIR$/Easy/001_Two_Sum.py" />
     <entry file="file://$PROJECT_DIR$/Hard/004_Median_of_Two_Sorted_Arrays.py" />
     <entry file="file://$PROJECT_DIR$/Medium/005_Longest_Palindromic_Substring.py" />
     <entry file="file://$PROJECT_DIR$/Medium/003_Longest_Substring_Without_Repeating_Characters.py" />
@@ -346,6 +348,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/0040_Combination_Sum_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/0041_First_Missing_Positive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
