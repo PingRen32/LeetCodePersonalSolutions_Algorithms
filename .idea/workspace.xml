@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Medium/0040_Combination_Sum_II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/0041_First_Missing_Positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/0042_Trapping_Rain_Water.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Medium/0041_First_Missing_Positive.py">
+        <entry file="file://$PROJECT_DIR$/Hard/0042_Trapping_Rain_Water.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            <state relative-caret-position="308">
+              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -97,6 +96,7 @@
         <option value="$PROJECT_DIR$/Medium/0039_Combination_Sum.py" />
         <option value="$PROJECT_DIR$/Medium/0040_Combination_Sum_II.py" />
         <option value="$PROJECT_DIR$/Medium/0041_First_Missing_Positive.py" />
+        <option value="$PROJECT_DIR$/Hard/0042_Trapping_Rain_Water.py" />
       </list>
     </option>
   </component>
@@ -175,12 +175,12 @@
       <workItem from="1559250316465" duration="25579000" />
       <workItem from="1564801911283" duration="6202000" />
       <workItem from="1565860473744" duration="26234000" />
-      <workItem from="1566496130065" duration="12220000" />
+      <workItem from="1566496130065" duration="13792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70901000" />
+    <option name="totallyTimeSpent" value="72473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
@@ -215,7 +215,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hard/004_Median_of_Two_Sorted_Arrays.py" />
     <entry file="file://$PROJECT_DIR$/Medium/005_Longest_Palindromic_Substring.py" />
     <entry file="file://$PROJECT_DIR$/Medium/003_Longest_Substring_Without_Repeating_Characters.py" />
     <entry file="file://$PROJECT_DIR$/Medium/006_ZigZag_Conversion.py" />
@@ -362,6 +361,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/0042_Trapping_Rain_Water.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
         </state>
       </provider>
     </entry>
