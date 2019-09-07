@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Medium/0043_Multiply_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/0044_Wildcard_Matching.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medium/0029_ Divide_Two_Integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/0029_Divide_Two_Integers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Medium/0043_Multiply_Strings.py">
+        <entry file="file://$PROJECT_DIR$/Hard/0044_Wildcard_Matching.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="1181">
+              <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -28,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -48,7 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Medium/002_Add_Two_Numbers.py" />
         <option value="$PROJECT_DIR$/Medium/003_Longest_Substring_Without_Repeating_Characters.py" />
         <option value="$PROJECT_DIR$/Hard/004_Median_of_Two_Sorted_Arrays.py" />
         <option value="$PROJECT_DIR$/Medium/005_Longest_Palindromic_Substring.py" />
@@ -99,6 +97,7 @@
         <option value="$PROJECT_DIR$/Medium/0041_First_Missing_Positive.py" />
         <option value="$PROJECT_DIR$/Hard/0042_Trapping_Rain_Water.py" />
         <option value="$PROJECT_DIR$/Medium/0043_Multiply_Strings.py" />
+        <option value="$PROJECT_DIR$/Hard/0044_Wildcard_Matching.py" />
       </list>
     </option>
   </component>
@@ -177,18 +176,19 @@
       <workItem from="1559250316465" duration="25579000" />
       <workItem from="1564801911283" duration="6202000" />
       <workItem from="1565860473744" duration="26234000" />
-      <workItem from="1566496130065" duration="16266000" />
+      <workItem from="1566496130065" duration="17529000" />
+      <workItem from="1567813181915" duration="1834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74947000" />
+    <option name="totallyTimeSpent" value="78044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24048583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24453442" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -217,7 +217,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Medium/003_Longest_Substring_Without_Repeating_Characters.py" />
     <entry file="file://$PROJECT_DIR$/Medium/006_ZigZag_Conversion.py" />
     <entry file="file://$PROJECT_DIR$/Easy/007_Reverse_Integer.py" />
     <entry file="file://$PROJECT_DIR$/Medium/008_String_to_Integer_(atoi).py" />
@@ -374,8 +373,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/0043_Multiply_Strings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="308">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/0044_Wildcard_Matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1181">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
         </state>
       </provider>
     </entry>
