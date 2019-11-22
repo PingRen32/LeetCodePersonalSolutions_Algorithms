@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Hard/0044_Wildcard_Matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0937_Reorder_Data_in_Log_Files.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,18 +19,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hard/0044_Wildcard_Matching.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1181">
-              <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,7 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Medium/003_Longest_Substring_Without_Repeating_Characters.py" />
         <option value="$PROJECT_DIR$/Hard/004_Median_of_Two_Sorted_Arrays.py" />
         <option value="$PROJECT_DIR$/Medium/005_Longest_Palindromic_Substring.py" />
         <option value="$PROJECT_DIR$/Medium/006_ZigZag_Conversion.py" />
@@ -98,13 +98,14 @@
         <option value="$PROJECT_DIR$/Hard/0042_Trapping_Rain_Water.py" />
         <option value="$PROJECT_DIR$/Medium/0043_Multiply_Strings.py" />
         <option value="$PROJECT_DIR$/Hard/0044_Wildcard_Matching.py" />
+        <option value="$PROJECT_DIR$/Easy/0937_Reorder_Data_in_Log_Files.c" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1909" />
-    <option name="width" value="1940" />
-    <option name="height" value="2171" />
+    <option name="x" value="1908" />
+    <option name="width" value="1941" />
+    <option name="height" value="2172" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -148,7 +149,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,18 +178,19 @@
       <workItem from="1564801911283" duration="6202000" />
       <workItem from="1565860473744" duration="26234000" />
       <workItem from="1566496130065" duration="17529000" />
-      <workItem from="1567813181915" duration="1834000" />
+      <workItem from="1567813181915" duration="2434000" />
+      <workItem from="1568508617151" duration="599000" />
+      <workItem from="1571954340528" duration="4193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78044000" />
+    <option name="totallyTimeSpent" value="83436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24453442" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25304136" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -217,7 +219,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Medium/006_ZigZag_Conversion.py" />
     <entry file="file://$PROJECT_DIR$/Easy/007_Reverse_Integer.py" />
     <entry file="file://$PROJECT_DIR$/Medium/008_String_to_Integer_(atoi).py" />
     <entry file="file://$PROJECT_DIR$/Easy/009_Palindrome_Number.py" />
@@ -246,14 +247,7 @@
     <entry file="file://$PROJECT_DIR$/Medium/031_Next_Permutation.py" />
     <entry file="file://$PROJECT_DIR$/Hard/032_Longest_Valid_Parentheses.py" />
     <entry file="file://$PROJECT_DIR$/Medium/033_Search_in_Rotated_Sorted_Array.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/Easy/066_Plus_One.py" />
     <entry file="file://$PROJECT_DIR$/Easy/067_Add_Binary.py" />
     <entry file="file://$PROJECT_DIR$/Easy/0013_Roman_to_Integer.py">
@@ -380,8 +374,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hard/0044_Wildcard_Matching.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1181">
-          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        <state relative-caret-position="675">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0937_Reorder_Data_in_Log_Files.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
