@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Medium/0002_Add_Two_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/0002_Add_Two_Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/0003_Longest_Substring_Without_Repeating_Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/0003_Longest_Substring_Without_Repeating_Characters.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +24,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Medium/0003_Longest_Substring_Without_Repeating_Characters.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -57,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Medium/008_String_to_Integer_(atoi).py" />
         <option value="$PROJECT_DIR$/Easy/009_Palindrome_Number.py" />
         <option value="$PROJECT_DIR$/Hard/010_Regular_Expression_Matching.py" />
         <option value="$PROJECT_DIR$/Medium/011_Container_With_Most_Water.py" />
@@ -108,10 +103,11 @@
         <option value="$PROJECT_DIR$/Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.py" />
         <option value="$PROJECT_DIR$/Easy/0001_Two_Sum.py" />
         <option value="$PROJECT_DIR$/Medium/0002_Add_Two_Numbers.py" />
+        <option value="$PROJECT_DIR$/Medium/0003_Longest_Substring_Without_Repeating_Characters.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1909" />
     <option name="width" value="1940" />
     <option name="height" value="2171" />
@@ -191,15 +187,15 @@
       <workItem from="1568508617151" duration="599000" />
       <workItem from="1571954340528" duration="4193000" />
       <workItem from="1574402390217" duration="3237000" />
-      <workItem from="1610735971860" duration="6684000" />
+      <workItem from="1610735971860" duration="7908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93357000" />
+    <option name="totallyTimeSpent" value="94581000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
+    <frame x="1273" y="0" width="1293" height="1447" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
@@ -231,7 +227,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Medium/019_Remove_Nth_Node_From_End_of_List.py" />
     <entry file="file://$PROJECT_DIR$/Easy/020_Valid_Parentheses.py" />
     <entry file="file://$PROJECT_DIR$/Easy/021_Merge_Two_Sorted_Lists.py" />
     <entry file="file://$PROJECT_DIR$/Medium/022_Generate_Parentheses.py" />
@@ -433,10 +428,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/0003_Longest_Substring_Without_Repeating_Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
