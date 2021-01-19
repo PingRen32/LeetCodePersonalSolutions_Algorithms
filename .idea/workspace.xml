@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Medium/0003_Longest_Substring_Without_Repeating_Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/0003_Longest_Substring_Without_Repeating_Characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +25,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -53,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Easy/009_Palindrome_Number.py" />
         <option value="$PROJECT_DIR$/Hard/010_Regular_Expression_Matching.py" />
         <option value="$PROJECT_DIR$/Medium/011_Container_With_Most_Water.py" />
         <option value="$PROJECT_DIR$/Medium/012_Integer_to_Roman.py" />
@@ -104,10 +107,11 @@
         <option value="$PROJECT_DIR$/Easy/0001_Two_Sum.py" />
         <option value="$PROJECT_DIR$/Medium/0002_Add_Two_Numbers.py" />
         <option value="$PROJECT_DIR$/Medium/0003_Longest_Substring_Without_Repeating_Characters.py" />
+        <option value="$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1909" />
     <option name="width" value="1940" />
     <option name="height" value="2171" />
@@ -187,15 +191,15 @@
       <workItem from="1568508617151" duration="599000" />
       <workItem from="1571954340528" duration="4193000" />
       <workItem from="1574402390217" duration="3237000" />
-      <workItem from="1610735971860" duration="7908000" />
+      <workItem from="1610735971860" duration="7923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94581000" />
+    <option name="totallyTimeSpent" value="94596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1293" height="1447" extended-state="1" />
+    <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
@@ -434,7 +438,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

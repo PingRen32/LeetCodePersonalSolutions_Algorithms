@@ -14,14 +14,12 @@ class Solution(object):
         """
         # Input two sorted arrays 'nums1' and 'nums2'
         # return float median number
-
         # Storage two array length
         m, n = len(nums1), len(nums2)
         if m > n:
             nums1, nums2, m, n = nums2, nums1, n, m
         if n == 0:
             raise ValueError
-
         # Loop through 'nums1' and update from 'nums2' if element from that is smaller
         # 'half_len' works as the end mark
         imin, imax, half_len = 0, m, (m + n + 1) / 2
@@ -36,7 +34,6 @@ class Solution(object):
                 imax = i - 1
             else:
                 # i is perfect
-
                 if i == 0:
                     max_of_left = nums2[j-1]
                 elif j == 0:
