@@ -2,7 +2,7 @@
 # You may assume that the maximum length of s is 1000.
 
 class Solution(object):
-    def longestPalindrome(self, s):
+    def longestPalindrome(self, s: str) -> str:
         """
         :type s: str
         :rtype: str

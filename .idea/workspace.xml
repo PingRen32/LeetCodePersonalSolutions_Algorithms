@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/0005_Longest_Palindromic_Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/0005_Longest_Palindromic_Substring.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py">
+        <entry file="file://$PROJECT_DIR$/Medium/0005_Longest_Palindromic_Substring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" column="51" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            <state relative-caret-position="814">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -57,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Hard/010_Regular_Expression_Matching.py" />
         <option value="$PROJECT_DIR$/Medium/011_Container_With_Most_Water.py" />
         <option value="$PROJECT_DIR$/Medium/012_Integer_to_Roman.py" />
         <option value="$PROJECT_DIR$/Easy/013_Roman_to_Integer.py" />
@@ -108,10 +107,11 @@
         <option value="$PROJECT_DIR$/Medium/0002_Add_Two_Numbers.py" />
         <option value="$PROJECT_DIR$/Medium/0003_Longest_Substring_Without_Repeating_Characters.py" />
         <option value="$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py" />
+        <option value="$PROJECT_DIR$/Medium/0005_Longest_Palindromic_Substring.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1909" />
     <option name="width" value="1940" />
     <option name="height" value="2171" />
@@ -191,12 +191,12 @@
       <workItem from="1568508617151" duration="599000" />
       <workItem from="1571954340528" duration="4193000" />
       <workItem from="1574402390217" duration="3237000" />
-      <workItem from="1610735971860" duration="12191000" />
+      <workItem from="1610735971860" duration="14597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98864000" />
+    <option name="totallyTimeSpent" value="101270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
@@ -231,7 +231,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Easy/020_Valid_Parentheses.py" />
     <entry file="file://$PROJECT_DIR$/Easy/021_Merge_Two_Sorted_Lists.py" />
     <entry file="file://$PROJECT_DIR$/Medium/022_Generate_Parentheses.py" />
     <entry file="file://$PROJECT_DIR$/Hard/023_Merge_k_Sorted_Lists.py" />
@@ -440,7 +439,14 @@
     <entry file="file://$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
-          <caret line="30" column="51" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/0005_Longest_Palindromic_Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
