@@ -20,4 +20,3 @@ class Solution:
                 res = prices[i] - minval
 
         return res
-    

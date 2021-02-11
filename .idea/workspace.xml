@@ -10,8 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0206_Reverse_Linked_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0415_Add_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0953_Verifying_an_Alien_Dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py">
+        <entry file="file://$PROJECT_DIR$/Easy/0415_Add_Strings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+            <state relative-caret-position="675">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -59,9 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Medium/012_Integer_to_Roman.py" />
-        <option value="$PROJECT_DIR$/Easy/013_Roman_to_Integer.py" />
-        <option value="$PROJECT_DIR$/Easy/014_Longest_Common_Prefix.py" />
         <option value="$PROJECT_DIR$/Medium/015_3Sum.py" />
         <option value="$PROJECT_DIR$/Medium/016_3Sum_Closest.py" />
         <option value="$PROJECT_DIR$/Medium/017_Letter_Combinations_of_a_Phone_Number.py" />
@@ -110,10 +110,13 @@
         <option value="$PROJECT_DIR$/Hard/0004_Median_of_Two_Sorted_Arrays.py" />
         <option value="$PROJECT_DIR$/Medium/0005_Longest_Palindromic_Substring.py" />
         <option value="$PROJECT_DIR$/Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py" />
+        <option value="$PROJECT_DIR$/Easy/0953_Verifying_an_Alien_Dictionary.py" />
+        <option value="$PROJECT_DIR$/Easy/0206_Reverse_Linked_List.py" />
+        <option value="$PROJECT_DIR$/Easy/0415_Add_Strings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1908" />
     <option name="width" value="1941" />
     <option name="height" value="2172" />
@@ -185,12 +188,12 @@
       <workItem from="1574402390217" duration="3237000" />
       <workItem from="1610735971860" duration="14597000" />
       <workItem from="1612122755055" duration="3120000" />
-      <workItem from="1612935638208" duration="2145000" />
+      <workItem from="1612935638208" duration="5301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106535000" />
+    <option name="totallyTimeSpent" value="109691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="0" width="1294" height="1448" extended-state="0" />
@@ -225,9 +228,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Medium/022_Generate_Parentheses.py" />
-    <entry file="file://$PROJECT_DIR$/Hard/023_Merge_k_Sorted_Lists.py" />
-    <entry file="file://$PROJECT_DIR$/Medium/024_Swap_Nodes_in_Pairs.py" />
     <entry file="file://$PROJECT_DIR$/Hard/025_Reverse_Nodes_in_k-Group.py" />
     <entry file="file://$PROJECT_DIR$/Easy/026_Remove_Duplicates_from_Sorted_Array.py" />
     <entry file="file://$PROJECT_DIR$/Easy/027_Remove_Element.py" />
@@ -445,8 +445,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        <state relative-caret-position="250">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0206_Reverse_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0953_Verifying_an_Alien_Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0415_Add_Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
