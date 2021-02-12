@@ -10,11 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Easy/0206_Reverse_Linked_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/0415_Add_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/0953_Verifying_an_Alien_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0155_Min_Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0234_Palindrome_Linked_List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +23,27 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Easy/0415_Add_Strings.py">
+        <entry file="file://$PROJECT_DIR$/Easy/0176_Second_Highest_Salary.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="78">
+              <caret line="3" column="58" lean-forward="true" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -62,9 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Medium/015_3Sum.py" />
-        <option value="$PROJECT_DIR$/Medium/016_3Sum_Closest.py" />
-        <option value="$PROJECT_DIR$/Medium/017_Letter_Combinations_of_a_Phone_Number.py" />
         <option value="$PROJECT_DIR$/Medium/018_4Sum.py" />
         <option value="$PROJECT_DIR$/Medium/019_Remove_Nth_Node_From_End_of_List.py" />
         <option value="$PROJECT_DIR$/Easy/020_Valid_Parentheses.py" />
@@ -113,6 +122,9 @@
         <option value="$PROJECT_DIR$/Easy/0953_Verifying_an_Alien_Dictionary.py" />
         <option value="$PROJECT_DIR$/Easy/0206_Reverse_Linked_List.py" />
         <option value="$PROJECT_DIR$/Easy/0415_Add_Strings.py" />
+        <option value="$PROJECT_DIR$/Easy/0176_Second_Highest_Salary.sql" />
+        <option value="$PROJECT_DIR$/Easy/0155_Min_Stack.py" />
+        <option value="$PROJECT_DIR$/Easy/0234_Palindrome_Linked_List.py" />
       </list>
     </option>
   </component>
@@ -129,31 +141,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="LeetCodePersonalSolutions_Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodePersonalSolutions_Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCodePersonalSolutions_Algorithms" type="e2918438:DataGripProjectViewPane$1$1" />
+              <item name="LeetCodePersonalSolutions_Algorithms" type="252d1985:DataGripProjectViewPane$1$1$1" />
             </path>
             <path>
-              <item name="LeetCodePersonalSolutions_Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodePersonalSolutions_Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCodePersonalSolutions_Algorithms" type="e2918438:DataGripProjectViewPane$1$1" />
+              <item name="LeetCodePersonalSolutions_Algorithms" type="252d1985:DataGripProjectViewPane$1$1$1" />
               <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,18 +202,17 @@
       <workItem from="1574402390217" duration="3237000" />
       <workItem from="1610735971860" duration="14597000" />
       <workItem from="1612122755055" duration="3120000" />
-      <workItem from="1612935638208" duration="5301000" />
+      <workItem from="1612935638208" duration="8282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109691000" />
+    <option name="totallyTimeSpent" value="112672000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="0" width="1294" height="1448" extended-state="0" />
-    <editor active="true" />
+    <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2710356" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13138686" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -214,7 +227,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -228,9 +241,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hard/025_Reverse_Nodes_in_k-Group.py" />
-    <entry file="file://$PROJECT_DIR$/Easy/026_Remove_Duplicates_from_Sorted_Array.py" />
-    <entry file="file://$PROJECT_DIR$/Easy/027_Remove_Element.py" />
     <entry file="file://$PROJECT_DIR$/Easy/028_Implement_strStr().py" />
     <entry file="file://$PROJECT_DIR$/Medium/029_ Divide_Two_Integers.py" />
     <entry file="file://$PROJECT_DIR$/Medium/002_Add_Two_Numbers.py" />
@@ -466,8 +476,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/0415_Add_Strings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="513">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0176_Second_Highest_Salary.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="58" lean-forward="true" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0155_Min_Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0234_Palindrome_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
