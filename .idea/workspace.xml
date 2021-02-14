@@ -10,8 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Easy/0125._Valid_Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/0453_Minimum_Moves_to_Equal_Array_Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0283_Move_Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0387_First_Unique_Character_in_a_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0412_Fizz_Buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0509_Fibonacci_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0680_Valid_Palindrome_II.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,19 +43,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/0125._Valid_Palindrome.py">
+        <entry file="file://$PROJECT_DIR$/Easy/0283_Move_Zeroes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+            <state relative-caret-position="315">
+              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/0509_Fibonacci_Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Easy/0453_Minimum_Moves_to_Equal_Array_Elements.py">
+        <entry file="file://$PROJECT_DIR$/Easy/0387_First_Unique_Character_in_a_String.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="378">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -83,11 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Easy/020_Valid_Parentheses.py" />
-        <option value="$PROJECT_DIR$/Easy/021_Merge_Two_Sorted_Lists.py" />
-        <option value="$PROJECT_DIR$/Medium/022_Generate_Parentheses.py" />
-        <option value="$PROJECT_DIR$/Hard/023_Merge_k_Sorted_Lists.py" />
-        <option value="$PROJECT_DIR$/Medium/024_Swap_Nodes_in_Pairs.py" />
         <option value="$PROJECT_DIR$/Hard/025_Reverse_Nodes_in_k-Group.py" />
         <option value="$PROJECT_DIR$/Easy/026_Remove_Duplicates_from_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/Easy/027_Remove_Element.py" />
@@ -134,10 +141,15 @@
         <option value="$PROJECT_DIR$/Easy/0234_Palindrome_Linked_List.py" />
         <option value="$PROJECT_DIR$/Easy/0125._Valid_Palindrome.py" />
         <option value="$PROJECT_DIR$/Easy/0453_Minimum_Moves_to_Equal_Array_Elements.py" />
+        <option value="$PROJECT_DIR$/Easy/0412_Fizz_Buzz.py" />
+        <option value="$PROJECT_DIR$/Easy/0680_Valid_Palindrome_II.py" />
+        <option value="$PROJECT_DIR$/Easy/0283_Move_Zeroes.py" />
+        <option value="$PROJECT_DIR$/Easy/0509_Fibonacci_Number.py" />
+        <option value="$PROJECT_DIR$/Easy/0387_First_Unique_Character_in_a_String.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1909" />
     <option name="width" value="1940" />
     <option name="height" value="2171" />
@@ -212,18 +224,18 @@
       <workItem from="1610735971860" duration="14597000" />
       <workItem from="1612122755055" duration="3120000" />
       <workItem from="1612935638208" duration="8282000" />
-      <workItem from="1613126468768" duration="1283000" />
+      <workItem from="1613126468768" duration="4999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113955000" />
+    <option name="totallyTimeSpent" value="117671000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1293" height="1447" extended-state="0" />
+    <frame x="1273" y="0" width="1293" height="1447" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13360325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18623482" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -252,11 +264,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Medium/002_Add_Two_Numbers.py" />
-    <entry file="file://$PROJECT_DIR$/Hard/030_Substring_with_Concatenation_of_All_Words.py" />
-    <entry file="file://$PROJECT_DIR$/Medium/031_Next_Permutation.py" />
-    <entry file="file://$PROJECT_DIR$/Hard/032_Longest_Valid_Parentheses.py" />
-    <entry file="file://$PROJECT_DIR$/Medium/033_Search_in_Rotated_Sorted_Array.py" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/Easy/066_Plus_One.py" />
     <entry file="file://$PROJECT_DIR$/Easy/067_Add_Binary.py" />
@@ -518,10 +525,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0680_Valid_Palindrome_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/0453_Minimum_Moves_to_Equal_Array_Elements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0412_Fizz_Buzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0283_Move_Zeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0509_Fibonacci_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0387_First_Unique_Character_in_a_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
