@@ -10,7 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Medium/1041_Robot_Bounded_In_Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0202_Happy_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0203_Remove_Linked_List_Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/0543_Diameter_of_Binary_Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/1480_Running_Sum_of_1d_Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,10 +42,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Medium/1041_Robot_Bounded_In_Circle.py">
+        <entry file="file://$PROJECT_DIR$/Easy/0203_Remove_Linked_List_Elements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            <state relative-caret-position="630">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -73,10 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Hard/030_Substring_with_Concatenation_of_All_Words.py" />
-        <option value="$PROJECT_DIR$/Hard/032_Longest_Valid_Parentheses.py" />
-        <option value="$PROJECT_DIR$/Medium/033_Search_in_Rotated_Sorted_Array.py" />
-        <option value="$PROJECT_DIR$/Easy/066_Plus_One.py" />
         <option value="$PROJECT_DIR$/Easy/067_Add_Binary.py" />
         <option value="$PROJECT_DIR$/Easy/0067_Add_Binary.py" />
         <option value="$PROJECT_DIR$/Easy/0069_Sqrt(x).py" />
@@ -124,6 +123,10 @@
         <option value="$PROJECT_DIR$/Medium/0056_Merge_Intervals.py" />
         <option value="$PROJECT_DIR$/Medium/0238_Product_of_Array_Except_Self.py" />
         <option value="$PROJECT_DIR$/Medium/1041_Robot_Bounded_In_Circle.py" />
+        <option value="$PROJECT_DIR$/Easy/0543_Diameter_of_Binary_Tree.py" />
+        <option value="$PROJECT_DIR$/Easy/0202_Happy_Number.py" />
+        <option value="$PROJECT_DIR$/Easy/1480_Running_Sum_of_1d_Array.py" />
+        <option value="$PROJECT_DIR$/Easy/0203_Remove_Linked_List_Elements.py" />
       </list>
     </option>
   </component>
@@ -151,7 +154,7 @@
             <path>
               <item name="LeetCodePersonalSolutions_Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePersonalSolutions_Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Medium" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,12 +207,12 @@
       <workItem from="1612935638208" duration="8282000" />
       <workItem from="1613126468768" duration="5013000" />
       <workItem from="1613670808402" duration="10234000" />
-      <workItem from="1614650318489" duration="96000" />
+      <workItem from="1614650318489" duration="2428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128015000" />
+    <option name="totallyTimeSpent" value="130347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="0" width="1294" height="1448" extended-state="0" />
@@ -244,34 +247,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Easy/0100_Same_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/0104_Maximum_Depth_of_Binary_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/0101_Symmetric_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/0107_Binary_Tree_Level_Order_Traversal_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Medium/0036_Valid_Sudoku.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="654">
@@ -566,6 +541,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0543_Diameter_of_Binary_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0202_Happy_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/1480_Running_Sum_of_1d_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/0203_Remove_Linked_List_Elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
         </state>
       </provider>
     </entry>
