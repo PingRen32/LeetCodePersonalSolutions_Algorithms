@@ -9,13 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Easy/0202_Happy_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/0203_Remove_Linked_List_Elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/0543_Diameter_of_Binary_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/1480_Running_Sum_of_1d_Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1ac2e0a4-4b23-4035-bced-e88c5053ca20" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Easy/0203_Remove_Linked_List_Elements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            <state relative-caret-position="567">
+              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -130,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1908" />
     <option name="width" value="1941" />
     <option name="height" value="2172" />
@@ -207,12 +201,12 @@
       <workItem from="1612935638208" duration="8282000" />
       <workItem from="1613126468768" duration="5013000" />
       <workItem from="1613670808402" duration="10234000" />
-      <workItem from="1614650318489" duration="2428000" />
+      <workItem from="1614650318489" duration="3029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130347000" />
+    <option name="totallyTimeSpent" value="130948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="0" width="1294" height="1448" extended-state="0" />
@@ -567,8 +561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/0203_Remove_Linked_List_Elements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        <state relative-caret-position="567">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>
